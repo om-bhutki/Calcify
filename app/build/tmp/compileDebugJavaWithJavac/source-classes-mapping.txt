@@ -1,0 +1,59 @@
+com/example/projectapp/RegisterActivity.java
+ com.example.projectapp.RegisterActivity
+ com.example.projectapp.RegisterActivity$1
+ com.example.projectapp.RegisterActivity$1$1
+com/example/projectapp/MainActivity.java
+ com.example.projectapp.MainActivity
+ com.example.projectapp.MainActivity$1
+ com.example.projectapp.MainActivity$1$1
+ com.example.projectapp.MainActivity$2
+com/example/projectapp/databinding/ActivityAttendanceCalculationBinding.java
+ com.example.projectapp.databinding.ActivityAttendanceCalculationBinding
+com/example/projectapp/MarksCalculationActivity.java
+ com.example.projectapp.MarksCalculationActivity
+ com.example.projectapp.MarksCalculationActivity$1
+ com.example.projectapp.MarksCalculationActivity$2
+com/example/projectapp/AttendanceCalculationActivity.java
+ com.example.projectapp.AttendanceCalculationActivity
+ com.example.projectapp.AttendanceCalculationActivity$1
+ com.example.projectapp.AttendanceCalculationActivity$2
+ com.example.projectapp.AttendanceCalculationActivity$3
+com/example/projectapp/databinding/ActivityDisplayMarksBinding.java
+ com.example.projectapp.databinding.ActivityDisplayMarksBinding
+com/example/projectapp/databinding/ActivityMarksCalculationBinding.java
+ com.example.projectapp.databinding.ActivityMarksCalculationBinding
+com/example/projectapp/SecondFragment.java
+ com.example.projectapp.SecondFragment
+ com.example.projectapp.SecondFragment$1
+com/example/projectapp/FirstFragment.java
+ com.example.projectapp.FirstFragment
+ com.example.projectapp.FirstFragment$1
+com/example/projectapp/databinding/ActivityMainBinding.java
+ com.example.projectapp.databinding.ActivityMainBinding
+com/example/projectapp/BuildConfig.java
+ com.example.projectapp.BuildConfig
+com/example/projectapp/StudentDetails.java
+ com.example.projectapp.StudentDetails
+com/example/projectapp/TermWorkCalculationActivity.java
+ com.example.projectapp.TermWorkCalculationActivity
+ com.example.projectapp.TermWorkCalculationActivity$1
+ com.example.projectapp.TermWorkCalculationActivity$2
+com/example/projectapp/databinding/RetrieveAllValuesBinding.java
+ com.example.projectapp.databinding.RetrieveAllValuesBinding
+com/example/projectapp/RetrivedMarksActivity.java
+ com.example.projectapp.RetrivedMarksActivity
+ com.example.projectapp.RetrivedMarksActivity$1
+ com.example.projectapp.RetrivedMarksActivity$2
+ com.example.projectapp.RetrivedMarksActivity$3
+ com.example.projectapp.RetrivedMarksActivity$4
+ com.example.projectapp.RetrivedMarksActivity$5
+com/example/projectapp/databinding/ActivityTermWorkCalculationBinding.java
+ com.example.projectapp.databinding.ActivityTermWorkCalculationBinding
+com/example/projectapp/databinding/FragmentSecondBinding.java
+ com.example.projectapp.databinding.FragmentSecondBinding
+com/example/projectapp/databinding/FragmentFirstBinding.java
+ com.example.projectapp.databinding.FragmentFirstBinding
+com/example/projectapp/MenuActivity.java
+ com.example.projectapp.MenuActivity
+com/example/projectapp/databinding/ActivityRegisterBinding.java
+ com.example.projectapp.databinding.ActivityRegisterBinding

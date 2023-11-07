@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\ombhu\\IdeaProjects\\Calcify\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_marks_calculation.xml",
+        "source": "C:\\Users\\ombhu\\IdeaProjects\\Calcify\\app\\src\\main\\res\\layout\\activity_marks_calculation.xml"
+    },
+    {
+        "merged": "C:\\Users\\ombhu\\IdeaProjects\\Calcify\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_retrived_marks.xml",
+        "source": "C:\\Users\\ombhu\\IdeaProjects\\Calcify\\app\\src\\main\\res\\layout\\activity_retrived_marks.xml"
+    },
+    {
+        "merged": "C:\\Users\\ombhu\\IdeaProjects\\Calcify\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ombhu\\IdeaProjects\\Calcify\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ombhu\\IdeaProjects\\Calcify\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\ombhu\\IdeaProjects\\Calcify\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\ombhu\\IdeaProjects\\Calcify\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\ombhu\\IdeaProjects\\Calcify\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\ombhu\\IdeaProjects\\Calcify\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_term_work_calculation.xml",
+        "source": "C:\\Users\\ombhu\\IdeaProjects\\Calcify\\app\\src\\main\\res\\layout\\activity_term_work_calculation.xml"
+    },
+    {
+        "merged": "C:\\Users\\ombhu\\IdeaProjects\\Calcify\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "C:\\Users\\ombhu\\IdeaProjects\\Calcify\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\ombhu\\IdeaProjects\\Calcify\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_attendance_calculation.xml",
+        "source": "C:\\Users\\ombhu\\IdeaProjects\\Calcify\\app\\src\\main\\res\\layout\\activity_attendance_calculation.xml"
+    },
+    {
+        "merged": "C:\\Users\\ombhu\\IdeaProjects\\Calcify\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\retrieve_all_values.xml",
+        "source": "C:\\Users\\ombhu\\IdeaProjects\\Calcify\\app\\src\\main\\res\\layout\\retrieve_all_values.xml"
+    },
+    {
+        "merged": "C:\\Users\\ombhu\\IdeaProjects\\Calcify\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_display_marks.xml",
+        "source": "C:\\Users\\ombhu\\IdeaProjects\\Calcify\\app\\src\\main\\res\\layout\\activity_display_marks.xml"
+    },
+    {
+        "merged": "C:\\Users\\ombhu\\IdeaProjects\\Calcify\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_item.xml",
+        "source": "C:\\Users\\ombhu\\IdeaProjects\\Calcify\\app\\src\\main\\res\\layout\\list_item.xml"
+    }
+]

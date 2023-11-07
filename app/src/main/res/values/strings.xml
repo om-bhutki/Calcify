@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Calcolatrice</string>
+    <string name="title_activity_display_attendance">ScrollingActivity</string>
+    <string name="finalTotal">/100</string>
+    <string name="realTotal">/60</string>
+    <string name="action_settings">Settings</string>
+    <string name="error">Invalid email or password!</string>
+    <string name="marksError">Marks should be less than or equal to 30.</string>
+    <string name="enrollmentError">Invalid Enrollment number</string>
+    <string name="date">Year/Month</string>
+    <string name="attendance">%</string>
+    <string name="outOf">/30</string>
+    <string name="defaulter">Student should be put in defaulter list.</string>
+    <string name="termWork">Marks should be less than or equal to 2,3 or 5.</string>
+    <string name="register_error">Only faculty emails are allowed.</string>
+    <string name="title_activity_retrived_marks">RetrivedMarksActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
